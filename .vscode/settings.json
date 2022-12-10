@@ -4,5 +4,6 @@
         "origin",
         "upstream",
         "12"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
